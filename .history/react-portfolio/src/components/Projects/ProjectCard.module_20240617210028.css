@@ -1,0 +1,6 @@
+@import "../../var.css";
+
+
+.container{
+    display: flex;
+}

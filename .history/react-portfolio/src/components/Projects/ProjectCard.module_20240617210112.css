@@ -1,0 +1,9 @@
+@import "../../var.css";
+
+
+.container{
+    display: flex;
+    font-display: column;
+    background-repeat: 10px;
+    background: linear-gradient(180deg,#57);
+}
